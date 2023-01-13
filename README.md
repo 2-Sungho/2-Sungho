@@ -40,8 +40,9 @@
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
 <br>
-	<img src="https://github-readme-stats.vercel.app/api?username=2-Sungho&show_icons=true&theme=blueberry" />
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2-Sungho&show_icons=true&theme=blueberry)
+<div align=center>
+	![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2-Sungho&show_icons=true&theme=blueberry)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact)](https://github.com/2-Sungho/github-readme-stats)
+</div>
 <br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact)](https://github.com/2-Sungho/github-readme-stats)
+
