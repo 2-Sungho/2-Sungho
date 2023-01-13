@@ -44,7 +44,7 @@
 <br><br>
 <div>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=default" />
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&layout=compact&show_icons=true&theme=default" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&show_icons=true&theme=default" />
 </div>
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" />	
