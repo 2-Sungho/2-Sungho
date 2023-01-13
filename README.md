@@ -42,6 +42,6 @@
 <br><br>
 <div align=center>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=cobalt" />
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&&show_icons=true&theme=default" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&layout=compact&show_icons=true&theme=default" />
 </div>
-
+<br>
