@@ -1,7 +1,9 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=2-Sungho%20Github&fontSize=50" />	
 </div>
-
+<div align=center>
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2-Sungho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com"
+</div>
 <div align="center">
     <h3>📧 Email 📧</h3>
     sungho._.2@icloud.com
@@ -45,3 +47,6 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&layout=compact&show_icons=true&theme=default" />
 </div>
 <br>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=footer />	
+</div>
