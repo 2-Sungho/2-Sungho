@@ -40,5 +40,6 @@
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2-Sungho)](https://github.com/2-Sungho/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=2-Sungho&show_icons=true">
