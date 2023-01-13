@@ -42,9 +42,11 @@
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
 <br><br>
-<div>
+<div align=center>
+	<div style="display: flex;">
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=default" />
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&layout=compact&show_icons=true&theme=default" />
+	</div>
 </div>
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" />	
