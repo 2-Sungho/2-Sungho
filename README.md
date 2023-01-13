@@ -40,15 +40,4 @@
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
 <br>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=2-Sungho&show_icons=true">
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=2-Sungho)
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2-Sungho](https://solved.ac/2-Sungho)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
