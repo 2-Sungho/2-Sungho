@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-    📧<b>Email</b>📧<br>
+    <h3>📧 Email 📧</h3><br>
     sungho._.2@icloud.com
 </div>
 <br>
