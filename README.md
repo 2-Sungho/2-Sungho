@@ -42,7 +42,7 @@
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
 <br><br>
-<div>
+<div align=center>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=default" />
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&show_icons=true&theme=default" />
 </div>
