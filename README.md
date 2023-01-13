@@ -39,12 +39,10 @@
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=Google Sheets&logoColor=white"/>
 </div>
-<br>
+<br><br>
 <div align=center>
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=cobalt" />
+	<br>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=2-Sungho&&show_icons=true&theme=cobalt" />
 </div>
-![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=2-Sungho&&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-Sungho&layout=compact)](https://github.com/2-Sungho/github-readme-
-<br>
 
