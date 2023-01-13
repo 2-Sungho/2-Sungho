@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=2-Sungho%20Github&fontSize=50" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Hi,%20there%20😃&fontSize=40&desc=2-Sungho%20Github&descSize=20" />	
 </div>
 <div align=center>
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2-Sungho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com"
@@ -48,5 +48,5 @@
 </div>
 <br>
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=footer />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" />	
 </div>
